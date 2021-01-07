@@ -1,12 +1,5 @@
 # Introduction #
 
-This is a generic Python 3 command-line script. It integrates:
+This is my attempt to fool around with curses programming in Python so I can make neat CLI programs.
 
-* Command-line switches
-* Logging framework
-
-Future features will include:
-
-* Executable generation
-* NSIS installer
 
